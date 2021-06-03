@@ -11,8 +11,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Mobile Robots :robot: | Deep Learning :computer: | AWS :cloud: 
--  **Learning :** Reinforcement Learning :robot: | Blockchain :computer: | Guitar :guitar:	
--  **Hobbies :** Books :books: | Music :headphones: | Ukulele 🎵
+-  **Learning :** Reinforcement Learning :joystick: | Blockchain :computer: | Guitar :guitar:	
+-  **Hobbies :** Books :books: | Music :headphones: | Ukulele :music:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** I like to train deep neural nets on large datasets :) 
 -  **Pronouns :** He/Him/His :innocent:
