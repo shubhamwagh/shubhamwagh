@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Shubham Wagh 👨‍💻 </h1>
 
-<!--
-**shubhamwagh/shubhamwagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Tech Enthusiast | Research Engineer </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.linkedin.com/in/shubhamwagh/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Shubham_Wagh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamwagh/"></a>
+<a href="https://twitter.com/Shubham4894"><img alt="Twitter" src="https://img.shields.io/badge/-Shubham_W-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Shubham4894"></a>
+<a href="mailto:shubhamwagh48@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/-shubhamwagh48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamwagh48@gmail.com"></a>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Mobile Robots :robot: | Deep Learning :computer: | AWS :cloud: 
+-  **Learning :** Reinforcement Learning :robot: | Blockchain :computer: | Guitar :guitar:	
+-  **Hobbies :** Books :books: | Music :headphones: | Ukulele 🎵
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** I like to train deep neural nets on large datasets :) 
+-  **Pronouns :** He/Him/His :innocent:
+-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center" >
+<img alt="Shubham's github stats" src="https://github-readme-stats.vercel.app/api?username=shubhamwagh&show_icons=true&theme=radical"> </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⭐️ From [Shubham Wagh](https://github.com/shubhamwagh)
