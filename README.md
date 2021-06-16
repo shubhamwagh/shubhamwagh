@@ -3,9 +3,9 @@
 <h3 align="center">  Tech Enthusiast | Research Engineer </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/shubhamwagh/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Shubham_Wagh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamwagh/"></a>
-<a href="https://twitter.com/Shubham4894"><img alt="Twitter" src="https://img.shields.io/badge/-Shubham_W-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Shubham4894"></a>
-<a href="mailto:shubhamwagh48@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/-shubhamwagh48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamwagh48@gmail.com"></a>  
+<a href="https://www.linkedin.com/in/shubhamwagh/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Shubham_Wagh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamwagh/"></a>
+<a href="https://twitter.com/Shubham4894"><img alt="Twitter" src="https://img.shields.io/badge/-Shubham_W-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Shubham4894"></a>
+<a href="mailto:shubhamwagh48@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/-shubhamwagh48@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shubhamwagh48@gmail.com"></a>  
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
