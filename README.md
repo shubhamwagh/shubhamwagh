@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Shubham Wagh 👨‍💻 </h1>
 
-<h3 align="center">  Tech Enthusiast | Research Engineer </h3> <br>
+<h3 align="center">  Tech Enthusiast | Computer Vision Scientist </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/shubhamwagh/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Shubham_Wagh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamwagh/"></a>
