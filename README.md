@@ -14,7 +14,6 @@
 -  **Learning :** Reinforcement Learning :joystick: | Blockchain :computer: | Guitar :guitar:	
 -  **Hobbies :** Books :books: | Music :headphones: | Ukulele 🎵
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** I like to train deep neural nets on large datasets :) 
 -  **Pronouns :** He/Him/His :innocent:
 -    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
